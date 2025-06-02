@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @milon333
 - 👀 I’m interested in Quality Engineering Automation, Cloud & AI application testing.
-- 🌱 I’m currently learning Cypress Web automation framework
 - 🌱 I would love to learn more on mobile application testing, ETL testing & cloud computing.
 - 📫 How to reach me :milon.panda333@gmail.com 
 
